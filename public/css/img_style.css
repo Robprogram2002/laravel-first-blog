@@ -1,0 +1,56 @@
+.pub_img {
+    margin-bottom: 2rem;
+}
+
+.pub_img .container-avatar {
+    width: 35px;
+    height: 35px;
+    border-radius: 900px;
+    overflow: hidden;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.pub_img .container-avatar img {
+    width: 100%;
+    height: 100%;
+}
+
+.pub_img .container-avatar {
+    float: left;
+     
+}
+
+.pub_img .data-user {
+    font-weight: bold;
+    line-height: 35px;
+}
+
+.image-container  {
+    max-height: 400px; 
+    overflow: hidden;
+    width: 100%;
+}
+
+.image-container img {
+    width: 100%;
+}
+
+.pub_img .card-body {
+    padding: 0px;
+}
+
+.pub_img .description {
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+
+.pub_img .card-body .likes {
+    float: left;
+    padding: 20px;
+}
+
+.pub_img .card-body .likes img {
+    width: 10px;
+}
